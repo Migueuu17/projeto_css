@@ -28,3 +28,31 @@ header nav li a {
   width: 100%;
   margin: 0 auto;
 }
+.brands-list img {
+  height: 24px;
+}
+
+.brands-list li {
+  display: inline;
+  margin-right: 8px;
+}
+
+.container-about {
+  align-items: flex-start;
+}
+
+#about {
+  padding: 24px 0;
+  color: #182c61;
+}
+#title-about {
+  margin-bottom: 18px;
+}
+
+.text-about {
+  margin-bottom: 8px;
+}
+
+.store-front {
+  margin-right: 32px;
+}
