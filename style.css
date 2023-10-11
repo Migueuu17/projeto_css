@@ -27,6 +27,10 @@ header nav li a {
 body {
   font-family: "Roboto", sans-serif;
 }
+
+#title-nav {
+  font-weight: normal;
+}
 .container {
   display: flex;
   align-items: center;
