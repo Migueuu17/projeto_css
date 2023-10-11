@@ -12,7 +12,7 @@ header {
 header nav li {
   display: inline;
   margin: 16px;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 header nav li a {
@@ -21,7 +21,7 @@ header nav li a {
 }
 
 #title-about,
-#title-nav {
+.container-nav {
   font-family: "Bungee", sans-serif;
 }
 body {
